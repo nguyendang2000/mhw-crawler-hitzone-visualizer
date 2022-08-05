@@ -1,0 +1,9 @@
+Part,Sever,Blunt,Ranged,Fire,Water,Thunder,Ice,Dragon,Stun,Stamina
+Head,65,70,40,20,0,30,10,10,100,100
+Stomach,40,40,30,10,0,20,5,5,0,100
+Back,30,30,35,10,0,15,5,5,0,100
+Forelegs,21,21,15,10,0,15,5,5,0,100
+Forelegs (Broken),43,43,35,10,0,20,5,5,0,100
+Hindlegs,30,30,25,10,0,15,5,5,0,100
+Tail,46,40,45,10,0,25,5,5,0,100
+Tail Tip,40,35,40,10,0,20,5,5,0,100

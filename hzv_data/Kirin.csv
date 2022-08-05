@@ -1,0 +1,8 @@
+Part,Sever,Blunt,Ranged,Fire,Water,Thunder,Ice,Dragon,Stun,Stamina
+Head,55,55,45,25,20,0,20,5,100,100
+Body,31,31,22,20,15,0,15,5,0,100
+Body (Electricity),20,20,10,15,10,0,10,5,0,100
+Lower Body,29,29,20,20,15,0,15,5,0,100
+Lower Body (Electricity),20,20,10,15,10,0,10,5,0,100
+Body (Electricity) (Iceborne),18,18,10,15,10,0,10,5,0,100
+Lower Body (Electricity) (Iceborne),18,18,10,15,10,0,10,5,0,100

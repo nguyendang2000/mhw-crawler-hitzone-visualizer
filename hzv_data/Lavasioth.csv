@@ -1,0 +1,20 @@
+Part,Sever,Blunt,Ranged,Fire,Water,Thunder,Ice,Dragon,Stun,Stamina
+Head (Magma Armor),15,20,15,50,15,0,0,5,100,100
+Neck,15,15,15,10,10,0,0,5,0,100
+Body,35,35,35,10,10,0,0,5,0,100
+Back (Magma Armor),20,20,20,10,15,0,0,5,0,100
+Fins,30,30,30,10,10,0,0,5,0,100
+Legs (Magma Armor),15,15,15,10,5,0,0,5,0,100
+Tail (Magma Armor),20,15,20,10,10,0,0,5,0,100
+Head (Wounded),35,40,35,5,35,15,15,5,100,100
+Back (Wounded),35,35,35,5,30,20,20,5,0,100
+Legs (Wounded),30,30,30,5,25,5,5,5,0,100
+Tail (Wounded),35,30,35,5,30,15,15,5,0,100
+Head (Heated),55,60,55,0,45,10,10,5,100,100
+Back (Heated),50,45,50,0,35,15,15,5,0,100
+Legs (Heated),40,40,40,0,30,5,5,5,0,100
+Tail (Heated),45,40,45,0,35,10,10,5,0,100
+Head (Magma Armor) (Iceborne),15,17,15,50,15,0,0,5,100,100
+Back (Magma Armor) (Iceborne),17,17,17,10,15,0,0,5,0,100
+Legs (Magma Armor) (Iceborne),15,15,15,10,5,0,0,5,0,100
+Tail (Magma Armor) (Iceborne),17,15,17,10,10,0,0,5,0,100

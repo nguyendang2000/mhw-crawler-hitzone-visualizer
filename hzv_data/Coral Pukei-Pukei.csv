@@ -1,0 +1,6 @@
+Part,Sever,Blunt,Ranged,Fire,Water,Thunder,Ice,Dragon,Stun,Stamina
+Head,60,65,45,10,0,15,30,10,100,100
+Body,30,30,25,5,0,5,15,5,0,100
+Wings,34,34,40,5,0,10,25,5,0,100
+Legs,30,30,25,5,0,10,20,5,0,100
+Tail,40,35,30,5,0,10,25,5,0,100

@@ -1,0 +1,11 @@
+Part,Sever,Blunt,Ranged,Fire,Water,Thunder,Ice,Dragon,Stun,Stamina
+Head,40,40,40,0,20,10,15,20,0,0
+Body,30,30,25,0,10,5,5,10,0,0
+Chest (Before Wounded),50,50,30,0,25,10,20,25,0,0
+Chest (After Wounded),80,80,80,0,30,15,25,30,0,0
+Forelegs,30,30,25,0,10,5,5,10,0,0
+Hindlegs,25,25,20,0,10,5,5,10,0,0
+Tail,25,25,20,0,10,5,5,10,0,0
+Shell,1,1,1,0,0,0,0,0,0,0
+,0,0,0,0,0,0,0,0,0,0
+Weak Shells,60,60,50,0,20,10,15,20,0,0

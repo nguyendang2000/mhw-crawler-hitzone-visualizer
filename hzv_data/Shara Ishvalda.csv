@@ -1,0 +1,16 @@
+Part,Sever,Blunt,Ranged,Fire,Water,Thunder,Ice,Dragon,Stun,Stamina
+Rock Head Casing (Face),50,55,45,5,15,0,20,5,100,100
+Rock Head Casing (Top),55,60,35,5,15,0,20,5,0,100
+Rock Head Casing (Bottom),50,50,30,5,15,0,20,5,0,100
+Rock Lower Body,10,10,10,5,5,0,10,5,0,100
+Rock Forelegs,19,20,15,5,10,0,15,5,0,100
+Rock Forelegs (Broken),10,10,10,5,5,0,10,5,0,100
+Rock Hindlegs,10,10,10,5,5,0,10,5,0,100
+Rock Wings,19,20,20,5,10,0,15,5,0,100
+Rock Wings (Broken),10,10,10,5,5,0,10,5,0,100
+Head,70,75,35,10,20,0,25,5,100,100
+Torso,48,44,20,5,15,0,20,5,0,100
+Forelegs,44,48,25,5,15,0,20,5,0,100
+Hindlegs,25,25,10,5,5,0,15,5,0,100
+Wings,48,48,45,5,15,0,20,5,0,100
+Tail,25,25,10,5,5,0,15,5,0,100
